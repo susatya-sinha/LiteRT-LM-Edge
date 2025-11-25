@@ -44,6 +44,7 @@
 #include "runtime/conversation/io_types.h"
 #include "runtime/engine/engine.h"
 #include "runtime/engine/engine_settings.h"
+#include "runtime/engine/shared_flags.h"
 #include "runtime/engine/io_types.h"
 #include "runtime/executor/executor_settings_base.h"
 #include "runtime/util/status_macros.h"

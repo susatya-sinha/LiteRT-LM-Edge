@@ -174,6 +174,7 @@ cc_binary(
     deps = [
         ":engine_interface",
         ":engine_settings",
+        ":shared_flags",
         ":io_types",
         "@com_google_absl//absl/base:log_severity",
         "@com_google_absl//absl/flags:flag",
